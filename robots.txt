@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrat-v-luchshem-kazino.github.io
+Sitemap: https://igrat-v-luchshem-kazino.github.io/sitemap.xml
